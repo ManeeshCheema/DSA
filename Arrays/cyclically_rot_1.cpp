@@ -1,3 +1,4 @@
+/*Given an array, cyclically rotate an array by one.*/
 #include<bits/stdc++.h>
 #define ll long long
 #define endl "\n"
